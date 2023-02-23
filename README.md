@@ -1,9 +1,11 @@
-# Convert FASTQ to FASTA file
+# Convert .fastq to .fasta
 
-FSATQ and FASTA are two different file formats to store nucleotide sequence and its quality scores. This repo includes two programs to convert FASTQ to FASTA and vice vera.
+FastQ and FastA are two different file formats to store nucleotide sequence and its quality scores. 
 
-## Command to read FASTQ and FASTA file
+This repo includes two programs to convert between the two file types.
 
-`cat filename`
+Use this command to read the files after generating:
+
+``cat :filename:``
 
 Have fun playing around!
