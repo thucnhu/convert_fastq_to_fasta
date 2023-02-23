@@ -6,6 +6,6 @@ This repo includes two programs to convert between the two file types.
 
 Use this command to read the files after generating:
 
-``cat filename``
+```cat filename```
 
 Have fun playing around!
